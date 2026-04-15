@@ -1,0 +1,15 @@
+1,Murtaza Ali,Mobile Snatching,21,10-02-2025,15:30,Monday
+2,Danish Khan,Pickpocketing,19,11-02-2025,16:45,Tuesday
+3,Owais Raza,Cash Snatching,33,12-02-2025,19:10,Wednesday
+4,Fatima Noor,Bag Snatching,26,13-02-2025,14:00,Thursday
+5,Zeeshan Ali,Shop Theft,28,14-02-2025,21:30,Friday
+6,Haris Rauf,Mobile Snatching,24,15-02-2025,20:00,Saturday
+7,Salman Mir,Armed Robbery,30,16-02-2025,22:15,Sunday
+8,Junaid Khan,Bike Theft,22,17-02-2025,18:45,Monday
+9,Aqeel Ahmed,Mobile Snatching,25,18-02-2025,17:20,Tuesday
+10,Sameer Khan,Extortion,38,19-02-2025,12:00,Wednesday
+11,Kaneez Fatima,Theft,25,18-02-2025,19:00,Thursday
+12,Farhan Saeed,Murder,40,19-03-2025,08:00,Friday
+13,Hashim Kardar,Kidnapping,36,18-09-2025,07:00,Saturday
+14,Faris Ghazi,Arson,35,26-11-2025,03:00,Sunday
+15,Zumar Yousaf,Organ Trafficking,32,21-09-2025,08:13,Friday

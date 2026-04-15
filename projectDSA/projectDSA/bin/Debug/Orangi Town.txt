@@ -1,0 +1,4 @@
+1,Mubashir Ahmed,Mobile Snatching,24,05-03-2025,18:30,Wednesday
+2,Naeem Rizvi,Bike Theft,29,08-03-2025,22:15,Saturday
+3,Siddique Jan,Street Robbery,38,10-03-2025,20:50,Monday
+4,Gulab Khan,Armed Assault,30,12-03-2025,23:10,Wednesday

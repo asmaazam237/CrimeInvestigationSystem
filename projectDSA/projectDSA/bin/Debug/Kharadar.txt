@@ -1,0 +1,13 @@
+1,Abdul Ghani,Shop Robbery,45,01-03-2025,20:10,Saturday
+2,Yousuf Ali,Mobile Snatching,23,02-03-2025,19:30,Sunday
+3,Shoaib Malik,Cash Theft,31,03-03-2025,11:15,Monday
+4,Rizwan Shah,Warehouse Theft,35,04-03-2025,03:00,Tuesday
+5,Bashir Ahmed,Bike Snatching,20,05-03-2025,21:45,Wednesday
+6,Khalid Mehmood,Pickpocketing,27,06-03-2025,16:00,Thursday
+7,Irfan Ullah,Mobile Snatching,22,07-03-2025,18:20,Friday
+8,Sajid Ali,Armed Robbery,29,08-03-2025,22:50,Saturday
+9,Mehmood Khan,Petty Theft,40,09-03-2025,14:30,Sunday
+10,Farhan Saeed,Bike Theft,26,10-03-2025,01:20,Monday
+11,Ali Asif,Murder,30,01-04-2024,12:10,Wednesday
+12,Huzaifa,Theft,20,12-03-2024,22:18,Tuesday
+13,Aliza,Murder,20,25-11-2019,11:17,Monday

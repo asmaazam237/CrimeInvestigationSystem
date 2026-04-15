@@ -1,0 +1,15 @@
+1,Mubashir Ahmed,Mobile Snatching,24,05-03-2025,18:30,Wednesday
+2,Naeem Rizvi,Bike Theft,29,08-03-2025,22:15,Saturday
+3,Siddique Jan,Street Robbery,38,10-03-2025,20:50,Monday
+4,Gulab Khan,Armed Assault,30,12-03-2025,23:10,Wednesday
+5,Ismail Qazi,Snatching,25,15-03-2025,19:25,Saturday
+6,Mustafa Burhanuddin,Murder,21,9-08-2024,02:53,Thursday
+7,Muhammad Abid,Vehicle Theft,35,22-02-2025,04:20,Saturday
+8,Kashif Ali,Burglary,33,25-02-2025,01:50,Tuesday
+9,Anwar Ali,Snatching,26,28-02-2025,20:05,Friday
+10,Salman Khan,Petty Theft,21,02-03-2025,17:45,Sunday
+11,Ismail Masood,Snatching,25,15-03-2025,19:25,Saturday
+12,Asmaan Khan,Theft,23,23-11-2025,17:00,Monday
+13,Talwaar Khan,Murder,26,12-12-2022,18:00,Tuesday
+14,Muhabbat Khan,Harrasment,23,11-10-2025,18:00,Wednesday
+15,Jabal Khan,Organ Trafficking,30,14-12-2022,08:22,Thursday

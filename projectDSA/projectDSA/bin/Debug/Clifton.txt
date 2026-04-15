@@ -1,0 +1,15 @@
+1,Ahmed Shah,Mobile Snatching,22,12-01-2025,19:45,Sunday
+2,Sara Khan,Purse Snatching,28,15-01-2025,14:20,Wednesday
+3,Zubair Ali,Car Theft,34,18-01-2025,03:10,Saturday
+4,Maria B.,Shop Robbery,40,20-01-2025,21:00,Monday
+5,Usman Sheikh,Armed Robbery,25,22-01-2025,23:30,Wednesday
+6,Fahad Mustafa,Bike Snatching,19,25-01-2025,18:15,Saturday
+7,Hina Pervez,Cash Snatching,45,27-01-2025,11:40,Monday
+8,Bilal Riaz,House Break-in,31,30-01-2025,02:00,Thursday
+9,Kamran Akmal,Pickpocketing,20,01-02-2025,16:50,Saturday
+10,Sana Javed,Harassment,24,03-02-2025,20:20,Monday
+11,Samar Jafri,Assault,29,27-11-2025,18:23,Sunday
+12,Aliza Ujan,Organ Trafficking,20,20-12-2025,19:32,Monday
+13,Samiullah,Bullying,20,12-04-2025,08:00,Thursday
+14,Alifya Shabbir,Assault,19,20-11-2025,08:23,Wednesday
+15,Bahadur Khan,Bullying,22,20-12-2025,09:00,Saturday
